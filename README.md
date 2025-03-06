@@ -12,7 +12,11 @@ A simple countdown timer that takes the time in seconds from the user and displa
 3. Enter the time (in seconds), and the timer will start.
 
 🔧 Features
+
 ✅ Displays time in hh:mm:ss format
+
 ✅ Uses \r for smooth real-time updates
+
 ✅ Handles invalid input errors
+
 ✅ Shows "Time Up!" message when the countdown finishes
